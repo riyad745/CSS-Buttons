@@ -16,10 +16,3 @@ Thank you for purchasing **Animated CSS Button**! This file contains a fully res
 2. Open `button.html` in your browser to see the demo.
 3. To use it in your project, copy the styles from `button.css` and apply them to your button.
 
-## Usage
-
-Simply include the CSS file in your HTML:
-
-```html
-<link rel="stylesheet" href="path-to/button.css">
-<button class="animated-button">Click Me</button>
